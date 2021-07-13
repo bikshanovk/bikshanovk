@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bikshanovk
 - 👀 I’m interested in Linux and DevOps
-- 🌱 I’m currently learning https://www.coursera.org/professional-certificates/google-it-automation 
+- 🌱 I’m currently learning https://www.coursera.org/professional-certificates/google-it-automation ✔️
 - 📫 How to reach me bikshanovk@gmail.com
 
 <!---
